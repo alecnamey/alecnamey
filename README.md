@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alec Namey
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Swift UI and Java
+-  I’m currently learning Python Machine Learning Libraries and React
 - Studying at UCSC
 - 📫 Email: alecnamey@gmail.com
